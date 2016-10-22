@@ -80,11 +80,12 @@ header {width:1256px;
  footer {background-color: #666666;
 	font-style: Arial;font-size:30px;
 	text-align: center;
+	padding-top: 40px;
 	color: white;
 	clear: both;
 	overflow:auto;
 	width: 1256px;
-	height: 60px;
+	height: 40px;
 	position: relative;
 	border-top:solid:#4aaaa5;}
 
@@ -95,7 +96,7 @@ header {width:1256px;
 										padding: 5px;
 										border: solid gray;} 
 
-.porfolio  {width:35%;
+.portfolio  {width:35%;
  			height:60%;
  			float:left;
  			padding:20px 50px 60px 60px;
