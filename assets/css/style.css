@@ -91,14 +91,14 @@ header {width:1256px;
 	border-top:solid:#4aaaa5;}
 
 #business, #nature, #sports, #technic {display:inline-block;
-										width:150px;
-										height:120px;
-										margin: 20px;
-										padding: 5px;
+										width:200px;
+										height:150px;
+										margin: 15px;
+
 										border: solid gray;} 
 
-.portfolio  {width:35%;
- 			height:65%;
+.portfolio  {width:40%;
+ 			height:70%;
  			float:left;
  			padding:30px;
  			margin-top:50px;
@@ -108,7 +108,7 @@ header {width:1256px;
  			background-color: #ffffff;
  			}
 .contact  {width:40%;
- 			height:67%;
+ 			height:70%;
  			float:left;
  			padding:30px;
  			margin-top:50px;
